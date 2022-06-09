@@ -42,6 +42,6 @@ Message: An error occurred sending the request.
 Inner exception message:
 
 ```
-WARNING: Only HTTP/1.0 and HTTP/1.1 version requests are currently supported.
+Only HTTP/1.0 and HTTP/1.1 version requests are currently supported.
 Parameter name: value
 ```
