@@ -1,6 +1,6 @@
 # Overview
 
-Example PowerShell module resulting in an HTTP version issue when reading groups using Microsoft.Graph v4.x when the module is being used in Windows PowerShell. The Cmdlet Test-GraphPowerShellHttpVersionIssue will use an application identity to get a token and then try to read all groups using the Graph client.
+Example PowerShell module resulting in an HTTP version error when reading groups using Microsoft.Graph v4.x when the module is being used in Windows PowerShell. The Cmdlet Test-GraphPowerShellHttpVersionIssue will use an application identity to get a token and then try to read all groups using the Graph client.
 
 # Debugging
 
