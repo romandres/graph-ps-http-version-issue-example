@@ -1,6 +1,6 @@
 # Overview
 
-Example PowerShell module resulting in an HTTP version issue in combination with Graph v4.x when being used in Windows PowerShell.
+Example PowerShell module resulting in an HTTP version issue when reading groups using Microsoft.Graph v4.x when the module is being used in Windows PowerShell.
 
 # Debugging
 
